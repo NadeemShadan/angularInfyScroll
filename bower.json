@@ -1,0 +1,27 @@
+{
+  "name": "angularInfyScroll",
+  "main": "index.js",
+  "homepage": "https://github.com/NadeemShadan/angularInfyScroll",
+  "authors": [
+    "Nadeem Shadan <nadeemshadan@outlook.com>"
+  ],
+  "description": "Simple Infinte scrolling with angularjs",
+  "keywords": [
+    "angularjs",
+    "angularjs",
+    "infinity",
+    "scroll",
+    "infinite",
+    "scroll",
+    "infinite",
+    "scrolling"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
