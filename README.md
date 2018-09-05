@@ -1,6 +1,16 @@
 # angularInfyScroll
 A simple infinty scroll for angularjs
 
+NPM
+```bash
+$ npm i infyScroll
+```
+BOWER
+
+```bash
+$ bower i infyScroll
+```
+
 ## How to use
 Inject in app.js 
 ```js

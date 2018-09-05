@@ -1,0 +1,26 @@
+{
+  "name": "nginfyscroll",
+  "version": "1.0.0",
+  "description": "Simple infinte scrolling directive for angularjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NadeemShadan/angularInfyScroll.git"
+  },
+  "keywords": [
+    "Infinite",
+    "scroll",
+    "angularjs",
+    "infinte scroll",
+    "scrolling"
+  ],
+  "author": "Nadeem Shadan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NadeemShadan/angularInfyScroll/issues"
+  },
+  "homepage": "https://github.com/NadeemShadan/angularInfyScroll#readme"
+}
