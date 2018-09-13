@@ -3,12 +3,12 @@ A simple infinty scroll for angularjs
 
 NPM
 ```bash
-$ npm i infyScroll
+$ npm i nginfyscroll
 ```
 BOWER
 
 ```bash
-$ bower i infyScroll
+$ bower i nginfyscroll
 ```
 
 ## How to use
