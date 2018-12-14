@@ -12,6 +12,9 @@ $ bower i nginfyscroll
 ```
 
 ## How to use
+
+Make the script is included in index.html
+
 Inject in app.js 
 ```js
 angular
