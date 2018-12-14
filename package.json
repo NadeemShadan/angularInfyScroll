@@ -1,6 +1,6 @@
 {
   "name": "nginfyscroll",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Simple infinte scrolling directive for angularjs",
   "main": "index.js",
   "scripts": {
