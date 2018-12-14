@@ -1,6 +1,7 @@
 {
   "name": "angularInfyScroll",
   "main": "index.js",
+  "version": "1.0.3",
   "homepage": "https://github.com/NadeemShadan/angularInfyScroll",
   "authors": [
     "Nadeem Shadan <nadeemshadan@outlook.com>"
